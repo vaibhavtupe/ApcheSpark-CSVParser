@@ -1,0 +1,5 @@
+Name,Age,Salary,Benefits,Department
+Aster,32,10000,20000,IT
+Helen,45,100,10000,Sales
+Michael,33,10000,100,IT
+Alen,22,100000,1000,Sales
